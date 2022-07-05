@@ -26,9 +26,4 @@
 
 <br />
 
-### Stats
-
-<img align="left" alt="imanm93's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=imanm93&show_icons=true&hide_border=true" />
-<img align="left" alt="imanm93's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=imanmzoe&show_icons=true&hide_border=true&count_private=true" />
-
 [linkedin]: https://www.linkedin.com/in/iman-kalyan-majumdar/
