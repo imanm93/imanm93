@@ -26,5 +26,8 @@
 
 <br />
 
+### Active Github Account:
+
+Please view my work Github account to see my latest activity: [github](https://github.com/imanmzoe/)
+
 [linkedin]: https://www.linkedin.com/in/iman-kalyan-majumdar/
-[github]: https://github.com/imanmzoe/
