@@ -1,10 +1,10 @@
 
 # Iman Kalyan Majumdar
 
-:wave: Hi, I’m a polyglot developer with 5+ years experience, passionate about creating the best possible products.
+:wave: Hi, I’m a polyglot developer with 10+ years experience, passionate about creating the best possible products.
 
-- 👀 Interested in Entrepreneurship through SaaS products in the Health and Financial sectors.
-- 🚀 Learning how to develop decentralised application using blockchain technology.
+- 💛 Maker at heart.
+- 🚀 Learning how to develop automated workflows with AI workers.
 - 🤝 Looking to contribute to more open source projects this year.
 
 #### Contact
@@ -22,7 +22,6 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <br />
 
